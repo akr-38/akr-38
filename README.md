@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayush
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on beginner 
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me ayushakr38@gmail.com
 
 <!---
