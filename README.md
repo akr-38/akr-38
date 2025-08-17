@@ -1,24 +1,22 @@
 # Hi there! 👋 I'm Ayush
 
-🚀 **Aspiring Software Engineer | MERN Stack Developer | Competitive Programmer**
+🚀 **Aspiring Software Engineer | Leetcode | React | Node | Express | FastAPI | C++ | Python | Javascript | MongoDB | PostgreSQL(Supabase, Neon)**
 
 ### 🔹 About Me
 - 🎓 **Final-year B.Tech student in Electronics and Communication Engineering** at Bharati Vidyapeeth College of Engineering.
-- 💡 Passionate about **Software Development, Problem-Solving, and Machine Learning** with a growing foundation in **Data Structures and Algorithms**.
-- 💻 Learning and improving my skills in **C++, JavaScript, SQL, React.js, Node.js, MongoDB, PostgreSQL, and more**.
+- 💡 Passionate about **Software Development, Problem-Solving** with a growing foundation in **Data Structures and Algorithms**.
+- 💻 Learning and improving my skills in **C++, JavaScript, Python, React.js, Node.js, Express.js, MongoDB, PostgreSQL**.
 - 🏆 **Ranked under 1k in CodeVita Season 12, 2025** – always striving to improve my problem-solving abilities.
-- 🏐 **Volleyball enthusiast** with two gold and one bronze medal, enjoying teamwork and discipline.
 
 ### 🔹 What I'm Working On
-- 🏗 **Building and refining full-stack applications** with the MERN stack.
-- 📚 Continuously **learning and adapting to new technologies** – currently exploring **Next.js & Python**.
-- 🔬 Applying **Machine Learning techniques** to real-world problems as part of my major project.
-- 🛠 Developing a better understanding of **software design patterns, system design, and database management**.
+- 🏗 **Building and refining full-stack applications** with the React, Node, Express, FastAPI, MongoDB and PostgrSQL.
+- 📚 Continuously **learning and adapting to new technologies** – currently exploring **Next.js, TypeScript, DevOps and Real Life Software Development**.
+- 🛠 Developing a better understanding of **software design patterns, DevOps, system design, and database management**.
 
-### 🔹 Projects
-- 📌 **[VideoTube](https://github.com/your-repo-link)** – A YouTube-like video-sharing platform built with MERN.
-- 📌 **[Notes App](https://github.com/your-repo-link)** – A simple and secure full-stack note management app.
-- 📌 **[Blog Website](https://github.com/your-repo-link)** – A responsive blogging platform using the MERN stack.
+### 🔹 Projects Till Now:
+- 📌 **[Investor Dashboard](https://github.com/akr-38/investors-dashboard-project)** – An Investor's Dashboard built using data scrapped from Vaahan Dashboard.
+- 📌 **[Video-Tube-Backend](https://github.com/akr-38/video-tube-backend)** – An extensive backend with 42 endpoints build for a video hosting platform like youtube.
+- 📌 **[Blog Website](https://github.com/akr-38/simple-blog-website)** – A responsive blogging platform using the MERN stack.
 
 ### 🔹 Why Me?
 ✅ **Passionate about coding** and eager to learn from every experience.
