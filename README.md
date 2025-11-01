@@ -25,8 +25,7 @@
 ✅ **Team player** who values collaboration and continuous growth.
 
 ### 🔹 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-kumar-056950236/) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/akr-38/)
+Email: ayushakr38@gmail.com
 
 📫 **Always open to learning and new opportunities!** 🚀
 
