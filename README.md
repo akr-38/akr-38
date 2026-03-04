@@ -1,30 +1,28 @@
 # Hi there! 👋 I'm Ayush
 
-🚀 **Aspiring Software Engineer | Leetcode | React | Node | Express | FastAPI | C++ | Python | Javascript | MongoDB | PostgreSQL(Supabase, Neon)**
+### 🚀 About Me
 
-### 🔹 About Me
-- 🎓 **Final-year B.Tech student in Electronics and Communication Engineering** at Bharati Vidyapeeth College of Engineering.
-- 💡 Passionate about **Software Development, Problem-Solving** with a growing foundation in **Data Structures and Algorithms**.
-- 💻 Learning and improving my skills in **C++, JavaScript, Python, React.js, Node.js, Express.js, MongoDB, PostgreSQL**.
-- 🏆 **Ranked under 1k in CodeVita Season 12, 2025** – always striving to improve my problem-solving abilities.
+I’m a Full Stack Engineer who can work across:
 
-### 🔹 What I'm Working On
-- 🏗 **Building and refining full-stack applications** with the React, Node, Express, FastAPI, MongoDB and PostgrSQL.
-- 📚 Continuously **learning and adapting to new technologies** – currently exploring **Next.js, TypeScript, DevOps and Real Life Software Development**.
-- 🛠 Developing a better understanding of **software design patterns, DevOps, system design, and database management**.
+Backend Systems: Microservices, Kafka (Confluent Cloud), Redis, Nginx, Express.js, FastAPI, PostgreSQL, MongoDB
+AI Integrations: LangChain, Tool Calling, Agentic Workflows, RAG pipelines, Vector Databases (Zilliz Cloud)
+Cloud & DevOps: AWS (EKS, ECS, EC2, Lambda, S3, CloudWatch), Kubernetes, Docker, GitHub Actions, Linux
+Frontend: React.js, Next.js, React Native
+Languages: Java, Python, Node.js
 
-### 🔹 Projects Till Now:
-- 📌 **[Investor Dashboard](https://github.com/akr-38/investors-dashboard-project)** – An Investor's Dashboard built using data scrapped from Vaahan Dashboard.
-- 📌 **[Video-Tube-Backend](https://github.com/akr-38/video-tube-backend)** – An extensive backend with 42 endpoints build for a video hosting platform like youtube.
-- 📌 **[Blog Website](https://github.com/akr-38/simple-blog-website)** – A responsive blogging platform using the MERN stack.
+I focus on building reliable, scalable systems using the right tools for the problem.
 
-### 🔹 Why Me?
-✅ **Passionate about coding** and eager to learn from every experience.
-✅ **Problem-solving mindset** with a love for tackling challenges.
-✅ **Curious and adaptable**, always open to learning new things.
-✅ **Team player** who values collaboration and continuous growth.
+Proof of work in the Projects section below.
+### Projects Till Now:
+- 📌 **[Store Provisioning Platform](https://github.com/akr-38/urumi-assignment)**
+- 📌 **[Canteen Ordering System (Backend)](https://github.com/canteenbackend35/canteen-management-backend)**
+- 📌 **[Canteen Ordering System (Frontend)](https://github.com/canteenbackend35/canteen-management-frontend)** 
+- 📌 **[Investor Dashboard](https://github.com/akr-38/investors-dashboard-project)**
+- 📌 **[Video-Tube-Backend](https://github.com/akr-38/video-tube-backend)**
+- 📌 **[Blog Website](https://github.com/akr-38/simple-blog-website)**
 
-### 🔹 Let's Connect
+
+### Let's Connect
 Email: ayushakr38@gmail.com
 
 📫 **Always open to learning and new opportunities!** 🚀
