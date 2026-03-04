@@ -4,11 +4,11 @@
 
 I’m a Full Stack Engineer who can work across:
 
-Backend Systems: Microservices, Kafka (Confluent Cloud), Redis, Nginx, Express.js, FastAPI, PostgreSQL, MongoDB
-AI Integrations: LangChain, Tool Calling, Agentic Workflows, RAG pipelines, Vector Databases (Zilliz Cloud)
-Cloud & DevOps: AWS (EKS, ECS, EC2, Lambda, S3, CloudWatch), Kubernetes, Docker, GitHub Actions, Linux
-Frontend: React.js, Next.js, React Native
-Languages: Java, Python, Node.js
+- Backend Systems: Microservices, Kafka (Confluent Cloud), Redis, Nginx, Express.js, FastAPI, PostgreSQL, MongoDB
+- AI Integrations: LangChain, Tool Calling, Agentic Workflows, RAG pipelines, Vector Databases (Zilliz Cloud)
+- Cloud & DevOps: AWS (EKS, ECS, EC2, Lambda, S3, CloudWatch), Kubernetes, Docker, GitHub Actions, Linux
+- Frontend: React.js, Next.js, React Native
+- Languages: Java, Python, Node.js
 
 I focus on building reliable, scalable systems using the right tools for the problem.
 
